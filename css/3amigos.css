@@ -1,0 +1,20 @@
+.section--projects {
+  min-height: 50vh;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  box-sizing: border-box;
+}
+.section--projects {
+  min-height: 50vh;
+}
+@media (min-width: 768px) {
+    .section--projects {
+    min-height: 100vh;
+  }
+}
+#projects .container{
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+  height: 300px;
+}
